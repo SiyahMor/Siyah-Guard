@@ -53,8 +53,8 @@ client.on('error', e => {
 
 client.ayarlar = {
   "prefix": [".", ",", "K!", "k!"],
-  "token": "ODIxODMzMjE4MjI3MDQ0NDIz.YFJd1A.ucZN1Ql8Uq0q7SKG0d1LnUiPZCs",
-  "yapimci": ["751524861205282969"],
+  "token": "ODQ4NjA0NDM5NjMyMDE5NDc2.YLPCeA.YuAiYHHgtAf3tVMes7WLTopQY4Q",
+  "yapimci": ["376781098413457419"],
   "footer": "💜Siyah",
   "readyFooter": ["💜Siyah" ],
   "kufurler": ["@here", "@everyone", "anskm", "orosbu", "orosb", "0r0spuc0cu", "4n4n1 sk3r1m", "p1c", "@n@nı skrm", "evladi", "orsb", "orsbcogu", "amnskm", "anaskm", "mk", "oc", "abaza", "abazan", "ag", "ağzına sıçayım", "fuck",
