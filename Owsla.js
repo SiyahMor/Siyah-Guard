@@ -53,7 +53,7 @@ client.on('error', e => {
 
 client.ayarlar = {
   "prefix": [".", ",", "K!", "k!"],
-  "token": "ODQ4NjA0NDM5NjMyMDE5NDc2.YLPCeA.YuAiYHHgtAf3tVMes7WLTopQY4Q",
+  "token": "",
   "yapimci": ["376781098413457419"],
   "footer": "💜Siyah",
   "readyFooter": ["💜Siyah" ],
